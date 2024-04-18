@@ -10,7 +10,8 @@
         "laravel/framework": "^11.0",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
-        "tightenco/ziggy": "^2.0"
+        "tightenco/ziggy": "^2.0",
+        "ext-pdo_sqlite": "*"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
@@ -66,6 +67,5 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true,
-    "ext-pdo_sqlite": "*"
+    "prefer-stable": true
 }
