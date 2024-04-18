@@ -69,7 +69,7 @@ class ChirpController extends Controller
         $validated = $request->validate([
             'message' => 'required|string|max:255',
         ]);
-
+        //test
         $chirp->update($validated);
 
         return redirect(route('chirps.index'));
