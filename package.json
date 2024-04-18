@@ -1,8 +1,8 @@
 {
-    "start": "node public/js/app.js",
     "private": true,
     "type": "module",
     "scripts": {
+        "start": "react-scripts start",
         "dev": "vite",
         "build": "vite build"
     },
