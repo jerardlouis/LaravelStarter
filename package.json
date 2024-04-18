@@ -1,4 +1,5 @@
 {
+    "start": "node public/js/app.js",
     "private": true,
     "type": "module",
     "scripts": {
