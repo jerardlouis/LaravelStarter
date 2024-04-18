@@ -66,5 +66,6 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "ext-pdo_sqlite": "*"
 }
