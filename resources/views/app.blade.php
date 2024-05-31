@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <!-- App by @jerardlouis Jerard Louis Dayanghirang Guevarra jerard.dev -->
         <title inertia>{{ config('app.name', 'Laravel') }}</title>
 
         <!-- Fonts -->
